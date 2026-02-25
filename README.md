@@ -20,7 +20,7 @@ The system helps improve **battery safety, performance, and lifespan** in:
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Predict battery **SOC, SOH and RUL**
 - Analyze battery behavior using data visualization
