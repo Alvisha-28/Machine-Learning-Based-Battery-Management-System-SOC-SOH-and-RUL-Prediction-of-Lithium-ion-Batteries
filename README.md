@@ -1,9 +1,9 @@
 # 🔋 Machine Learning Based Battery Management System  
-## SOC, SOH and RUL Prediction of Lithium-ion Batteries
+# SOC, SOH and RUL Prediction of Lithium-ion Batteries
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project presents a **Machine Learning based Battery Management System (BMS)** that predicts:
 
