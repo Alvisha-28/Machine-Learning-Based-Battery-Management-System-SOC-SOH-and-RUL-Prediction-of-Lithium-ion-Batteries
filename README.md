@@ -1,5 +1,4 @@
-# 🔋 Machine Learning Based Battery Management System  
-# SOC, SOH and RUL Prediction of Lithium-ion Batteries
+# 🔋 Machine Learning Based Battery Management System :SOC, SOH and RUL Prediction of Lithium-ion Batteries
 
 ---
 
