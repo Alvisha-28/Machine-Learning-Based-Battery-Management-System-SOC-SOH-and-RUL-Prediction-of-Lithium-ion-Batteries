@@ -75,35 +75,5 @@ Features include:
 - ✔ Accurate RUL prediction  
 - ✔ Strong correlation between voltage and current  
 
----
 
-# 📈 Visualizations
 
-## 🔹 1. Actual vs Predicted RUL
-
-![RUL Prediction Graph](images/rul_prediction.png)
-
-Shows how close the predicted RUL is to actual battery life.
-
----
-
-## 🔹 2. Correlation Heatmap
-
-![Correlation Heatmap](images/heatmap.png)
-
-Shows relationship between battery parameters.
-
-- Red → Strong positive correlation  
-- Blue → Negative correlation  
-
----
-
-## 🔹 3. Feature Importance
-
-![Feature Importance](images/feature_importance.png)
-
-Shows which battery parameters most affect prediction.
-
----
-
-## 💻 Example Prediction
